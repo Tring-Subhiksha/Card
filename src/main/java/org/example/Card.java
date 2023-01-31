@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class Card implements Cloneable{
+class Card implements cloneable{
     String holdersname;
     String cardnumber;
     String expirationdate;

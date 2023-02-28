@@ -5,9 +5,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 class Card implements cloneable{
-    String holdersname;
-    String cardnumber;
-    String expirationdate;
+   private String holdersname;
+   private String cardnumber;
+   private String expirationdate;
 
     String name="swathi";
     String number="1248 9087 3456 9087";
